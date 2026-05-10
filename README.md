@@ -79,7 +79,7 @@
 
 ## 🚀 安装步骤（blackboy操作）
 
-### 第一步：让王颖填API密钥
+### 第一步：让wy填API密钥
 
 让她填写 `API配置/密钥收集表.txt`，至少需要：
 - DeepSeek API Key（必须）
